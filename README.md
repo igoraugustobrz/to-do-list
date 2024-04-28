@@ -10,9 +10,10 @@ Projeto em andamento.
 
 ## Pré-requisitos
 
-### Linguagens
+### Tecnologias
 
-- Java (v17.0.5).
+- Java (v17.0.5);
+- React.js (v18.2.0).
 
 ### Dependências
 
