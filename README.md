@@ -13,7 +13,8 @@ Projeto em andamento.
 ### Tecnologias
 
 - Java (v17.0.5);
-- React.js (v18.2.0).
+- React.js (v18.2.0);
+- Tailwind CSS (v3.4.3).
 
 ### Dependências
 
