@@ -14,6 +14,7 @@ Projeto em andamento.
 
 - Java (v17.0.5);
 - React.js (v18.2.0);
+- TypeScript (v5.5.2);
 - Tailwind CSS (v3.4.3).
 
 ### Dependências
